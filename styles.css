@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: aqua;
+    height: 5vw;
+    display: flex;
+}
+.nav-ul{
+    list-style-type: none;
+    margin-top: 1vw;
+    margin-right: 1vw;
+    margin-left: 20vw;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
